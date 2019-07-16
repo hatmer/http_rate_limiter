@@ -5,16 +5,12 @@ Rate limiter for HTTP requests from authenticated users.
 To run the server: 
 
 ```
-#!bash
-
 node index.js
 ```
 
 To run the test client:
 
 ```
-#!bash
-
 node client.js
 ```
 
